@@ -109,7 +109,8 @@ Things that broke during setup, in case they save someone else time:
 ## TODO
 
 - [ ] Second internal 3.5" drive
-- [ ] UPS for clean shutdown on power loss
+- [ ] Set up Home Assistant for home lighting and audio automation
+- [ ] Host local AI for troubleshooting and free offline knowledge resource
 - [ ] Audiobookshelf for audiobook-specific playback
 - [ ] Move off managed Tailscale to self-hosted Headscale
 - [ ] Offsite backup rotation via Duplicati
